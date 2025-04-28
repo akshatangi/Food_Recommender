@@ -1,0 +1,97 @@
+Timestamp,Food Item Name,Food Court/Cafe Location,Cuisine Type,Veg/Non-veg,Price,Meal Type,Spice Level,Rating
+13/04/2025 19:50:10,Chole Kulcha,Food Court,Indian,Veg,90,Lunch,2,5
+13/04/2025 21:33:12,Aloo roll,Rolls 2nd Floor,Indian,Veg,50,Snacks,2,4
+14/04/2025 12:08:37,Biryani ,Food Court,Indian,Veg,55,Lunch,2,4
+14/04/2025 12:23:59,Manchurian roll,Frisco,Chinese,Veg,50,Snacks,3,5
+14/04/2025 12:24:31,Dosa (masala),South Indian 2nd Floor,South Indian,Veg,55,Lunch,3,4
+14/04/2025 12:27:31,Soya chaap roll,Rolls 2nd Floor,Indian,Veg,80,Lunch,1,5
+14/04/2025 12:27:55,White Sauce Pasta,Frisco,Italian,Veg,80,Snacks,2,4
+14/04/2025 12:28:30,Paneer Prantha,Food Court,Indian,Veg,40,Breakfast,1,4
+14/04/2025 12:28:51,Ice tea,Frisco,Drinks,Veg,40,Snacks,1,5
+14/04/2025 12:29:23,Cup cake,Dunkin,Desert,Veg,200,Snacks,1,4
+14/04/2025 12:29:52,Pizza,Dominos,Italian,Non-Veg,200,Snacks,2,5
+14/04/2025 12:30:15,Egg Roll,Rolls 2nd Floor,Indian,Egg,50,Lunch,2,4
+14/04/2025 12:30:42,Frappe,Tulip,Drinks,Veg,45,Snacks,1,4
+14/04/2025 12:33:19,Lunch thali,Kandoli Mess,Indian,Veg,50,Lunch,2,3
+14/04/2025 12:36:16,Chicken Sandwich,Frisco,Indian,Non-Veg,80,Lunch,2,4
+14/04/2025 12:36:46,Chicken roll,Rolls 2nd Floor,Indian,Non-Veg,100,Lunch,2,5
+14/04/2025 12:37:20,Veg Thali,Food Court,Indian,Veg,50,Lunch,2,3
+14/04/2025 12:37:39,Samosa,Food Court,Indian,Veg,40,Snacks,2,4
+14/04/2025 12:38:45,Chole Bhature,Food Court,Indian,Veg,50,Lunch,1,4
+14/04/2025 12:40:04,Double aaloo roll,Rolls 2nd Floor,Indian,Veg,50,Lunch,2,5
+14/04/2025 12:41:14,Burger,Dominos,Indian,Veg,100,Breakfast,3,5
+14/04/2025 12:43:38,Roll,Frisco,Indian,Veg,50,Lunch,1,4
+14/04/2025 12:47:19,Burger ,Food Court,Indian,Veg,120,Snacks,1,2
+14/04/2025 13:20:54,Chicken roll ,Rolls 2nd Floor,Indian,Non-Veg,100,Snacks,2,4
+14/04/2025 22:59:40,Pav bhaji ,Food Court,Indian,Veg,120,Snacks,1,2
+23/04/2025 22:29:23,Non veg wrap,Frisco,Indian,Non-Veg,80,Snacks,2,4
+23/04/2025 22:29:47,Paneer Sandwich ,Frisco,Italian,Veg,120,Breakfast,1,3
+23/04/2025 22:29:52,Paneer shahi,Kandoli Mess,Indian,Veg,70,Lunch,3,4
+23/04/2025 22:29:55,Mexican bowl,Frisco,Italian,Non-Veg,180,Lunch,1,3
+23/04/2025 22:30:30,Kadhai paneer,Kandoli Mess,Indian,Veg,70,Lunch,3,4
+23/04/2025 22:30:30,Chicken Roll,Frisco,Indian,Non-Veg,80,Lunch,2,3
+23/04/2025 22:30:42,Pizzas,Dominos,Indian,Veg,300,Lunch,1,1
+23/04/2025 22:31:39,Fried rice ,Kandoli Mess,Indian,Veg,80,Lunch,3,4
+23/04/2025 22:32:25,Slush,Tulip,Drinks,Veg,35,Snacks,2,3
+23/04/2025 22:32:51,tripple Egg roll,Food Court,Indian,Veg,60,Lunch,2,5
+23/04/2025 22:32:56,Hakka noodles ,Kandoli Mess,Indian,Veg,70,Lunch,3,3
+23/04/2025 22:32:57,Piyush,Tulip,Drinks,Veg,35,Breakfast,1,3
+23/04/2025 22:33:14,Malai chaap roll,Food Court,Indian,Non-Veg,120,Lunch,3,5
+23/04/2025 22:33:22,Ice cream,Frisco,Desert,Veg,40,Lunch,1,5
+23/04/2025 22:33:37,chicken roll,Food Court,Indian,Non-Veg,100,Lunch,2,3
+23/04/2025 22:33:50,Piyush,Tulip,Drinks,Veg,40,Snacks,1,4
+23/04/2025 22:34:21,Manchurian Roll,Frisco,Indian,Veg,40,Lunch,2,3
+23/04/2025 22:34:29,Chicken sausage pizza,Dominos,Indian,Non-Veg,300,Lunch,2,1
+23/04/2025 22:34:42,Egg Chicken roll,Rolls 2nd Floor,Indian,Non-Veg,100,Snacks,2,4
+23/04/2025 22:35:00,IDLI SAMBHAR,South Indian 2nd Floor,South Indian,Veg,40,Lunch,2,5
+23/04/2025 22:35:22,Sweet lassi,Kandoli Mess,Indian,Non-Veg,30,Lunch,2,5
+23/04/2025 22:35:22,Coffee latte ,Dunkin,Indian,Veg,160,Snacks,1,3
+23/04/2025 22:35:25,Cappuccino ,Frisco,Drinks,Veg,40,Snacks,1,5
+23/04/2025 22:35:29,Vada Sambhar,South Indian 2nd Floor,South Indian,Veg,50,Lunch,2,5
+23/04/2025 22:35:43,Double egg double Chicken seekh roll,Rolls 2nd Floor,Indian,Non-Veg,140,Lunch,2,5
+23/04/2025 22:35:52,egg roll,Rolls 2nd Floor,Indian,Non-Veg,60,Lunch,3,5
+23/04/2025 22:36:05,Masala lassi,Kandoli Mess,Indian,Veg,30,Lunch,3,5
+23/04/2025 22:36:16,Butter Masala Dosa,South Indian 2nd Floor,South Indian,Veg,55,Lunch,2,5
+23/04/2025 22:36:19,Chicken cheezling rice,Dominos,Italian,Non-Veg,299,Lunch,3,5
+23/04/2025 22:36:25,litchi Slush,Tulip,Drinks,Veg,35,Snacks,1,1
+23/04/2025 22:36:57,Peach ice Tea,Tulip,Drinks,Veg,35,Snacks,1,1
+23/04/2025 22:37:00,peach ice tea,Tulip,Indian,Veg,35,Snacks,1,1
+23/04/2025 22:37:01,Aaloo roll,Rolls 2nd Floor,Indian,Veg,40,Lunch,2,5
+23/04/2025 22:37:01,Slush,Tulip,Drinks,Veg,35,Snacks,1,4
+23/04/2025 22:37:07,Veg biryani,Kandoli Mess,Indian,Veg,70,Lunch,3,5
+23/04/2025 22:37:30,Non veg biryani,Kandoli Mess,Indian,Veg,120,Lunch,3,5
+23/04/2025 22:37:42,Butter masala dosa,South Indian 2nd Floor,South Indian,Veg,65,Lunch,3,5
+23/04/2025 22:38:06,Double egg double Chicken tikka roll,Rolls 2nd Floor,Indian,Non-Veg,150,Lunch,2,5
+23/04/2025 22:38:06,Honey chilli potato,Kandoli Mess,Chinese,Veg,60,Snacks,3,5
+23/04/2025 22:38:10,masala dosa,South Indian 2nd Floor,Indian,Veg,55,Snacks,1,5
+23/04/2025 22:38:12,Blue Lagoon Slush,Tulip,Drinks,Veg,35,Snacks,1,3
+23/04/2025 22:38:12,Masala dosa,South Indian 2nd Floor,South Indian,Veg,55,Lunch,3,5
+23/04/2025 22:38:53,Chicken sandwich ,Frisco,Indian,Non-Veg,80,Snacks,3,4
+23/04/2025 22:39:10,Black Current shake,Tulip,Drinks,Veg,60,Lunch,1,5
+23/04/2025 22:39:17,honey chilli potato,Kandoli Mess,Indian,Veg,60,Snacks,3,2
+23/04/2025 22:39:27,Tripple egg roll,Rolls 2nd Floor,Indian,Egg,60,Lunch,1,5
+23/04/2025 22:39:54,Cold coffee,Tulip,Drinks,Veg,60,Snacks,1,1
+23/04/2025 22:39:58,rajma chawal,Food Court,Indian,Veg,35,Breakfast,1,5
+23/04/2025 22:40:09,Panner Naan Thali,Food Court,Indian,Veg,90,Lunch,2,4
+23/04/2025 22:40:10,Pizza,Kandoli Mess,Italian,Veg,70,Snacks,2,5
+23/04/2025 22:40:15,Paneer roll,Rolls 2nd Floor,Indian,Veg,80,Lunch,2,5
+23/04/2025 22:40:30,Paneer Roll,Rolls 2nd Floor,Indian,Veg,80,Lunch,3,4
+23/04/2025 22:40:33,Sandwich,Kandoli Mess,Italian,Veg,70,Snacks,1,1
+23/04/2025 22:41:00,Lemon Ice tea,Frisco,Drinks,Veg,40,Lunch,1,5
+23/04/2025 22:41:02,Expressso,Frisco,Drinks,Veg,40,Snacks,1,5
+23/04/2025 22:41:53,Lunch Feast Meal,Dominos,Italian,Veg,106,Snacks,1,4
+23/04/2025 22:42:38,burger,Frisco,Indian,Veg,60,Snacks,1,5
+23/04/2025 22:42:43,Paneer sandwich ,Frisco,Indian,Veg,60,Snacks,3,4
+23/04/2025 22:42:56,Donuts(Combo of 6),Dunkin,Desert,Veg,749,Lunch,1,5
+23/04/2025 22:43:05,garlic bread,Dominos,Italian,Veg,149,Snacks,1,5
+23/04/2025 22:43:16,Stuffed Garlic Bread,Dominos,Italian,Veg,149,Snacks,2,5
+23/04/2025 22:44:12,Pav Bhaji,Food Court,Indian,Veg,45,Breakfast,1,1
+23/04/2025 22:45:15,Pindi chole  puri,Food Court,Indian,Veg,50,Lunch,3,5
+23/04/2025 22:45:18,Plain Maggie,Frisco,Indian,Veg,40,Snacks,1,4
+23/04/2025 22:45:58,paneer parantha,Kandoli Mess,Indian,Veg,40,Lunch,3,5
+23/04/2025 22:46:18,Dhruv Bengali Fried rice,Kandoli Mess,South Indian,Non-Veg,999,Lunch,3,1
+23/04/2025 22:46:48,Sarthak Momos wala,Dunkin,Indian,Veg,1,Snacks,1,1
+23/04/2025 22:46:49,Chole bhature,Food Court,Indian,Veg,50,Lunch,3,5
+28/04/2025 20:17:26,Chicken Burger,Frisco,Indian,Non-Veg,70,Snacks,2,4
+28/04/2025 20:17:46,Egg Prantha,Kandoli Mess,Indian,Egg,50,Breakfast,2,3
+28/04/2025 20:18:06,Egg Noodles,Food Court,Indian,Egg,60,Snacks,2,4
